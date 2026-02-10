@@ -498,6 +498,12 @@ button[type="submit"]:disabled,
     padding: 1.5rem;
     min-height: 240px;
   }
+  .top-info{
+    padding-top: 1.4rem;
+  }
+  .buttom-info{
+    padding-bottom: 1.25rem;
+  }
 
   .avatar-preview {
     width: 48px;
@@ -528,10 +534,7 @@ button[type="submit"]:disabled,
     height: 88px;
   }
 
-  /* .avatar-buttons {
-    flex-direction: column;
-    width: 100%;
-  } */
+ 
 
   .avatar-buttons button {
     width: 100%;
